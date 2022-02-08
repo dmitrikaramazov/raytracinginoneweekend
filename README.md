@@ -3,6 +3,8 @@
 
 This project was made following along Peter Shirley's Ray Tracing in One Weekend in August of 2021. It differs in a few ways. Mainly, this produces .bmp images rather than the simpler .ppm filetype. I've also tried to customize the materials and add in additional shapes.
 
+![example output 1](/saved_images/final_hires_supersampled.bmp)
+
 
 ### Sources
 
